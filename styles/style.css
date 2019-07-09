@@ -260,7 +260,7 @@ h6 {
 }
 /* End Testimonial */
 
-/* Start Little Snippet */
+/* Start Little Snippet 
 
 @import url(https://fonts.googleapis.com/css?family=Roboto:100,700;);
 .snip1576 {
@@ -359,11 +359,5 @@ h6 {
   transition-delay: 0.4s;
 }
 
-
-/* Demo purposes only */
-
-body {
-  background-color: #212121;
-  text-align: center;
  
 /* End Little Snippet */
