@@ -1,1 +1,150 @@
+/* Start Font */
+@import url('https://fonts.googleapis.com/css?family=Ropa+Sans&display=swap');
+/* End Font */
+/* Start Body  */
+body {
+    /* Property */
+    background-color: #F7E9E7;
+    color: #CE6571;
+    font-family: 'Ropa Sans', 'Arial Narrow', Arial, sans-serif;
+    line-height:1.5em;
+    font-size:16 px;
+    margin: 0;
+    padding: 0;
+}
+/* End Body */
 
+
+/*Start Debug */
+.bg-blue{
+    background-color:#F7E9E7;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+/* End Debug */
+
+
+/* Start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%
+}
+
+.container-full{
+  margin: 10px auto;
+  overflow: auto;
+  width: 100%;  
+}
+/* End Container */
+
+/* Start Logo */
+.logo {
+    text-align: center;
+}
+/*End Logo*/
+
+/*Start Menu Primer */
+.menu-primer {
+    background-color: #F7D1C8;
+    border-radius: 4px;
+    box-shadow: 
+        0 3px 5px -1px rgba(0,0,0,.2), 
+        0 6px 10px 0 rgba(0,0,0,.14), 
+        0 1px 18px 0 rgba(0,0,0,.12);
+}
+.menu-primer li {
+    border-right: 1px solid #594045;
+    display: inline-block;
+    margin: 0 -4px;
+}
+.menu-primer a {
+    color: #ffffff;
+    display: inline-block;
+    font-size: 13px;
+    letter-spacing: 1px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+.menu-primer a:hover {
+    background-color: #f7f7f7;
+    color: #333;
+    text-decoration: none;
+}
+
+.menu-primer .active {
+    background-color: #ffffff;
+    color: #333;
+    text-decoration: none;
+}
+/*End Menu Primer */
+
+/* Start Heading */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+h1 {
+    font-size: 28px;
+}
+h2 {
+    font-size: 24px;
+}
+h3 {
+    font-size: 18px;
+}
+h4 {
+    font-size: 16px;
+}
+h5 {
+    font-size: 14px;
+}
+h6 {
+    font-size: 13px;
+}
+/* End Heading */
+
+/* Start Heading */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+h1 {
+    font-size: 28px;
+}
+h2 {
+    font-size: 24px;
+}
+h3 {
+    font-size: 18px;
+}
+h4 {
+    font-size: 16px;
+}
+h5 {
+    font-size: 14px;
+}
+h6 {
+    font-size: 13px;
+}
+/* End Heading */
+
+/* Start Jumbotron */
+.jumbotron {
+    background-color: #f6f8fa;
+    border: 1px solid #eaecef;
+    border-radius: 4px;
+    padding: 20px 0;
+}
+.jumbotron h1 {
+    font-size: 32px;
+    padding: 0 20px;
+}
+.jumbotron h3 {
+    font-size: 20px;
+    padding: 0 20px;
+}
+/* End Jumbotron */
