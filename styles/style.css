@@ -47,6 +47,10 @@ body {
 }
 /*End Logo*/
 
+.no-underline:hover {
+    text-decoration: none;
+}
+
 /*Start Menu Primer */
 .menu-primer {
     background-color: #F7D1C8;
