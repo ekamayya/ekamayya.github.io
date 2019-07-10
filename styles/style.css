@@ -53,6 +53,7 @@ body {
 
 /*Start Menu Primer */
 .menu-primer {
+	text-decoration: none;
     background-color: #F7D1C8;
     border-radius: 4px;
     box-shadow: 
@@ -155,11 +156,13 @@ h6 {
 
 /* Start Main */
 .main-home-one {
+	text-decoration: none;
     float: left;
     width: 49.5%;
 }
 
 .main-home-two {
+	text-decoration: none;
     float: right;
     width: 49.5%;
 }
@@ -170,12 +173,14 @@ h6 {
 }
 
 .main-one {
+	text-decoration: none;
     float: left;
     overflow: auto;
     width: 70%;
 }
 
 .main-two {
+	text-decoration: none;
     float: right;
     overflow: auto;
     width: 70%;
@@ -223,6 +228,7 @@ h6 {
 
 /* Start Menu Sekunder */
 .menu-sekunder {
+	text-decoration: none;
     background-color: #F7D1C8;
     border-bottom: 1px solid 	#F7D1C8;
     border-top: 1px solid 	#F7D1C8;
@@ -251,6 +257,7 @@ h6 {
     float: left;
 }
 .menu-sekunder-one {
+	text-decoration: none;
     width: 40%;
 }
 .menu-sekunder-two,
