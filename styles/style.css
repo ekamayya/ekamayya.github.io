@@ -305,6 +305,11 @@ textarea::placeholder {
 }
 /* End Table */
 
+.center
+{
+	margin: 0 auto;
+}
+
 /* Start Little Snippet 
 
 @import url(https://fonts.googleapis.com/css?family=Roboto:100,700;);
